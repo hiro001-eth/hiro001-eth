@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Red Teaming & Exploit Development**
 
-- 💬 Ask me about **Python, web app security, bug bounty hunting, Tkinter GUI, OSINT, TryHackMe labs**
+- 💬 Ask me about **Python, web app security, bug bounty methodologies, exploit chaining, API & cloud misconfigurations, OSINT investigations, and TryHackMe/HTB strategy.**
 
 - ⚡ Fun fact **Started my cybersecurity journey with zero knowledge in Dec 2023 — and now building real-world tools and earning certs one step at a time 🚀**
 
