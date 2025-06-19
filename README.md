@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manjil Katuwal</h1>
-<h3 align="center">A passionate self-taught cybersecurity learner and Python developer from Nepal</h3>
+<h3 align="center">A passionate self-taught cybersecurity learner and Python developer </h3>
 
 - 🌱 I’m currently learning **Red Teaming & Exploit Development**
 
