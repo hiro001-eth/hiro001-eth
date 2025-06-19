@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Red Teaming & Exploit Development**
 
-- 📝 I regularly write articles on [https://medium.com/@katuwalmanjil609](https://medium.com/@katuwalmanjil609)
-
 - 💬 Ask me about **Python, web app security, bug bounty hunting, Tkinter GUI, OSINT, TryHackMe labs**
 
 - ⚡ Fun fact **Started my cybersecurity journey with zero knowledge in Dec 2023 — and now building real-world tools and earning certs one step at a time 🚀**
