@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, web app security, bug bounty hunting, Tkinter GUI, OSINT, TryHackMe labs**
 
-- 📫 How to reach me **katuwalmanjil609@gmail.com**
-
 - ⚡ Fun fact **Started my cybersecurity journey with zero knowledge in Dec 2023 — and now building real-world tools and earning certs one step at a time 🚀**
 
 <h3 align="left">Connect with me:</h3>
