@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=7DF0B7&center=true&vCenter=true&width=580&lines=SOC+Analyst+%2F+Threat+Hunter+%2F+Python+Developer;Red+Team+%7C+Blue+Team+%7C+Bug+Bounty;Building+security+tools+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=7DF0B7&center=true&vCenter=true&width=580&lines=SOC+Analyst+%2F+Threat+Hunter+%2F+Python+Developer;Red+Team+%7C+Blue+Team+%7C+Bug+Bounty;Building+security+tools+from+Nepal" />
 
 <br/>
 
@@ -49,9 +49,9 @@ philosophy  : "Understand the attack to master the defense."
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=7DF0B7)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=7DF0B7)
 ![Elastic](https://img.shields.io/badge/Elastic-0d1117?style=for-the-badge&logo=elastic&logoColor=7DF0B7)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=7DF0B7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burp-suite&logoColor=7DF0B7)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=7DF0B7)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=7DF0B7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=7DF0B7)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=7DF0B7)
 
 </div>
 
