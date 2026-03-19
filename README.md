@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Manjil%20Katuwal&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Manjil%20Katuwal&fontSize=52&fontColor=7DF0B7&fontAlignY=45&desc=SOC%20Analyst%20%E2%80%82%7C%E2%80%82%20Threat%20Hunter%20%E2%80%82%7C%E2%80%82%20Python%20Developer&descAlignY=68&descSize=17&descColor=c9d1d9&animation=fadeIn&stroke=7DF0B7&strokeWidth=1" width="100%" />
 
 <br/>
 
@@ -76,9 +76,9 @@ philosophy  : "Understand the attack to master the defense."
 <br/>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/hiro001-eth/hiro001-eth/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&text=hiro001%20%40%20Nepal&fontSize=18&fontColor=7DF0B7&fontAlignY=65&animation=fadeIn&stroke=7DF0B7&strokeWidth=1" width="100%" />
