@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Manjil%20Katuwal&fontSize=52&fontColor=7DF0B7&fontAlignY=45&desc=Security%20Engineer%20%C2%B7%20Detection%20%C2%B7%20GRC%20%C2%B7%20Security%20Tooling&descAlignY=68&descSize=17&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6094e0&height=200&section=header&text=Manjil%20Katuwal&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Security%20Engineer%20%C2%B7%20Detection%20%C2%B7%20GRC%20%C2%B7%20Security%20Tooling&descAlignY=68&descSize=17&descColor=8b949e&animation=fadeIn" width="100%" />
 
 [Portfolio](https://manjilkatuwal.com.np/) &middot; [LinkedIn](https://linkedin.com/in/manjil-katuwal-5b39212b0) &middot; [TryHackMe](https://tryhackme.com/p/Hiro001) &middot; [Topmate](https://topmate.io/manjil_katuwal) &middot; [Email](mailto:katuwalmanjil609@gmail.com)
 
@@ -33,16 +33,11 @@ The design decisions these projects share: deterministic logic over opaque scori
 
 ## Work
 
-**Security Engineer, Udaan Agencies** (Birtamode, Nepal, Aug 2025 to present)
+**Security Engineer, Udaan Agencies** (Nepal, Aug 2025 to Sep 2026)
 
 - Own the morning alert queue in Wazuh and Elastic. Tuned thresholds until the false-positive rate dropped, then built Python scripts for IOC enrichment and evidence collection. Per-alert handling time went from about 8 minutes to about 3, measured across the queue.
-- Built the internal GRC platform now used for SOC 2, ISO 27001, PCI DSS, and NIST CSF evidence. Monthly audit exports are generated and cryptographically signed instead of assembled by hand in spreadsheets.
-- Wrote roughly 30 detection rules mapped to MITRE ATT&CK and shipped them to production SIEM. Coverage includes ransomware behavior, lateral movement, and credential abuse.
+- Wrote roughly detection rules mapped to MITRE ATT&CK and shipped them to production SIEM. Coverage includes ransomware behavior, lateral movement, and credential abuse.
 - Handled incident containment directly: network segmentation, isolation tunnels, and CISA KEV/NVD-driven patch enforcement with per-asset SLAs.
-
-**IT Engineer, Global Foods UK** (remote, Apr 2024 to Oct 2024). Systems and infrastructure support across UK operations; the bridge from software into security.
-
-**Backend Developer, Astral Techsoft** (Mechinagar, Nepal, Dec 2023 to Mar 2024). Backend development. This is why I read application code for logic flaws rather than relying on scanner output alone.
 
 ---
 
@@ -131,7 +126,7 @@ I also mentor people entering blue-team work through [Topmate](https://topmate.i
 
 ## Contact
 
-I am open to security engineering, detection engineering, and SOC roles.
+I am open to security engineering, detection engineering,SOC, and GRC roles.
 
 Email: katuwalmanjil609@gmail.com
 LinkedIn: [manjil-katuwal-5b39212b0](https://linkedin.com/in/manjil-katuwal-5b39212b0)
