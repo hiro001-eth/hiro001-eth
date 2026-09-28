@@ -106,19 +106,6 @@ Full archive on [Medium](https://medium.com/@katuwalmanjil609).
 
 I also mentor people entering blue-team work through [Topmate](https://topmate.io/manjil_katuwal), mostly roadmaps, lab selection, and honest assessments of where someone actually stands.
 
-## Activity
-
-<div align="center">
-
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=hiro001-eth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7DF0B7&ring=7DF0B7&fire=7DF0B7&currStreakLabel=7DF0B7&sideLabels=c9d1d9&dates=666666" />
-
-<br/><br/>
-
-</div>
-
 ---
 
 ## Contact
