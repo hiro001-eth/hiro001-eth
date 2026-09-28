@@ -108,17 +108,12 @@ I also mentor people entering blue-team work through [Topmate](https://topmate.i
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hiro001-eth&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF0B7&icon_color=7DF0B7&text_color=c9d1d9&rank_icon=github&custom_title=GitHub+Stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro001-eth&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7DF0B7&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=hiro001-eth&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7DF0B7&ring=7DF0B7&fire=7DF0B7&currStreakLabel=7DF0B7&sideLabels=c9d1d9&dates=666666" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiro001-eth&bg_color=0d1117&color=7DF0B7&line=7DF0B7&point=ffffff&area=true&area_color=7DF0B740&hide_border=true&custom_title=Contribution+Timeline" width="95%" />
 
 </div>
 
@@ -133,4 +128,4 @@ LinkedIn: [manjil-katuwal-5b39212b0](https://linkedin.com/in/manjil-katuwal-5b39
 Portfolio: [manjilkatuwal.com.np](https://manjilkatuwal.com.np)
 Schedule a call: [topmate.io/manjil_katuwal](https://topmate.io/manjil_katuwal)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&text=Nepal+%C2%B7+Open+Source+%C2%B7+Blue+Team&fontSize=15&fontColor=7DF0B7&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6094e0&height=100&section=footer&text=Nepal+%C2%B7+Open+Source+%C2%B7+Blue+Team&fontSize=15&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
