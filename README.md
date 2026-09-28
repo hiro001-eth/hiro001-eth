@@ -94,15 +94,17 @@ Currently studying for GRCP, ISO 27001 Lead Implementer, and CRISC.
 
 ## Writing
 
-- [Why I Built VALENCE: From SIEM Telemetry to Audit-Grade Evidence](https://manjilkatuwal.com.np) (Jun 2026)
-- [The Death of the Black Box: Why GRC Needs Cryptographic Certainty](https://manjilkatuwal.com.np) (Jun 2026)
-- [I Built an Enterprise Threat Intelligence Pipeline From Scratch](https://manjilkatuwal.com.np) (Jun 2026)
-- [SOC Raw Log Analysis: The Complete Field Manual, L1 to L3](https://manjilkatuwal.com.np) (Apr 2026)
-- [My 90-Day Journey to 4 Oracle Cloud Certifications](https://manjilkatuwal.com.np) (Nov 2025)
+Long-form build logs for the platforms above. Each one covers the architecture decisions, the failures, and what I would do differently.
+
+- [I Built the Vulnerability Management System That Enterprises Pay $200,000 Per Year For](https://medium.com/@katuwalmanjil609/i-built-the-vulnerability-management-system-that-enterprises-pay-200-000-per-year-for-164ff96fcc5f) (Jun 2026)
+- [I Built an Enterprise Threat Intelligence Pipeline From Scratch: Everything I Learned About Turning Raw IOCs Into Actionable Defense](https://medium.com/@katuwalmanjil609/i-built-an-enterprise-threat-intelligence-pipeline-from-scratch-heres-everything-i-learned-about-d595b0f2950b) (Jun 2026)
+- [Why I Built VALENCE: From SIEM Telemetry to Audit-Grade Compliance Evidence](https://medium.com/@katuwalmanjil609) (Jun 2026)
+- [The Death of the Black Box: Why Enterprise GRC Requires Cryptographic Certainty](https://medium.com/@katuwalmanjil609) (Jun 2026)
+- [I Built a File Integrity Monitor That Ships to Elasticsearch. Here Is Why and How.](https://medium.com/@katuwalmanjil609) (Mar 2026)
+
+Full archive on [Medium](https://medium.com/@katuwalmanjil609).
 
 I also mentor people entering blue-team work through [Topmate](https://topmate.io/manjil_katuwal), mostly roadmaps, lab selection, and honest assessments of where someone actually stands.
-
----
 
 ## Activity
 
